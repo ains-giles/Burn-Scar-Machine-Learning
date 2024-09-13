@@ -1,0 +1,20 @@
+each line is a set of coordinates in the following format
+
+x0,y0,x1,y2
+col1, row1, col2, row2, description
+
+where xxx2 > xxx1 and the row col numbers correspond to the whole domain
+
+col1, row1, col2, row2, description
+1525, 1870, 1685, 1998, na
+1605, 1342, 1765, 1470, na
+1500, 1850, 1660, 1978, na
+1470, 2050, 1630, 2178, na
+1435, 2200, 1595, 2328, na
+1600, 2200, 1760, 2328, na
+1800, 2200, 1960, 2328, na
+1040, 2830, 1200, 2958, na
+1500, 2360, 1660, 2488, na
+1160, 1650, 1320, 1778, southwest of salt lake city
+1200, 1780, 1360, 1908, southwest of salt lake city
+0680, 2420, 0840, 2548, na
